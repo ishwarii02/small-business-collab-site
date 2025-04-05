@@ -59,7 +59,8 @@ An AI-driven platform that helps small businesses collaborate via:
 5. **Order Handling & Logistics**  
 6. **Customer Purchase via Unified Checkout**
 
-![Use Case](docs/usecase-diagram.png)
+![WhatsApp Image 2025-04-04 at 11 51 41_fbf932f8](https://github.com/user-attachments/assets/5dcbec86-9d96-421b-abcd-ed525d020238)
+
 
 ---
 

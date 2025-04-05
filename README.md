@@ -1,6 +1,6 @@
 # small-business-collab-site
 "A collaborative platform for small businesses to connect and grow.
-# 🌟 Local Business Collaboration Platform
+#  Local Business Collaboration Platform
 
 **Team: Creative Catalyst**  
 **Team Leader:** Ishwari Mohokar  
@@ -14,7 +14,7 @@ Small local businesses often struggle to grow due to limited reach, high marketi
 
 ---
 
-## 💡 Our Solution
+##  Our Solution
 
 An AI-driven platform that helps small businesses collaborate via:
 
@@ -26,7 +26,7 @@ An AI-driven platform that helps small businesses collaborate via:
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 | Layer        | Technology                     |
 |--------------|--------------------------------|
@@ -39,7 +39,7 @@ An AI-driven platform that helps small businesses collaborate via:
 
 ---
 
-## ⚙️ Features
+##  Features
 
 -  AI-driven seller group formation  
 -  Shared storefronts with dynamic pricing  
@@ -50,7 +50,7 @@ An AI-driven platform that helps small businesses collaborate via:
 
 ---
 
-## 📈 Process Flow
+##  Process Flow
 
 1. **Seller Onboarding**  
 2. **AI Group Matching (Gemini)**  
@@ -64,21 +64,21 @@ An AI-driven platform that helps small businesses collaborate via:
 
 ---
 
-## 🔗 Links
+##  Links
 
-- 🔥 [Live Demo](#)
-- 🎥 [Demo Video (3 min)](#)
-- 💻 [MVP Link (Hosted on IDX/Firebase)](#)
+-  [Live Demo](#)
+-  [Demo Video (3 min)](#)
+-  [[MVP Link (Hosted on IDX/Firebase)](#)](https://www.figma.com/proto/QTI8aAFBVTD25Yv9AI5FTa/Untitled?node-id=50-23&t=oHI2f95smgR2nOZn-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A10)
 
 ---
 
-## 📸 Snapshots
+## Snapshots
 
 Add screenshots in `/assets/MVP-snapshots` and display them here using markdown.
 
 ---
 
-## 📌 Future Features
+##  Future Features
 
 - Smart Local Delivery using Google Maps API  
 - Gemini-based Voice Assistant for sellers  
@@ -88,7 +88,7 @@ Add screenshots in `/assets/MVP-snapshots` and display them here using markdown.
 
 ---
 
-## 📜 License
+##  License
 
 [MIT License](LICENSE)
 
